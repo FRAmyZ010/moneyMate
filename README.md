@@ -16,6 +16,9 @@
 ## 📝 Changelog
 ### 🟡 v0.1.0 - Demo version
 
+## Flowchart :
+(Flowchart.png)
+
 ## ⌨️ Languages :
 - 🟠HTML
 - 🔵CSS
