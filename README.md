@@ -17,7 +17,7 @@
 ### 🟡 v0.1.0 - Demo version
 
 ## Flowchart :
-(/Flowchart.png)
+![MoneyMate Logo](/Flowchart.png)
 
 ## ⌨️ Languages :
 - 🟠HTML
